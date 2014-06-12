@@ -1,4 +1,12 @@
-iOS 1-Day Course
+#iOS 1-Day Course
+
+OBJECTIVES
+----------
+* Learn how to navigate Xcode for application development
+* Be able to build an iOS app that you can continue working on post-workshop
+* Tips and resources for continuing to learn iPhone development
+* Understand Apple iOS 7 Mobile Interface Guidelines and patterns.
+* Understand what Swift means for 
 
 RESOURCES
 ----------
