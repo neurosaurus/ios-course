@@ -6,7 +6,7 @@ OBJECTIVES
 * Be able to build an iOS app that you can continue working on post-workshop
 * Tips and resources for continuing to learn iPhone development
 * Understand Apple iOS 7 Mobile Interface Guidelines and patterns.
-* Understand what Swift means for 
+* Understand what Swift means for iOS Developers
 
 RESOURCES
 ----------
