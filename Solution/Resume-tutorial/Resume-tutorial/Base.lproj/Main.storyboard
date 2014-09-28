@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="5056" systemVersion="13D65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" initialViewController="BKY-kN-ldr">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6245" systemVersion="13F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" initialViewController="BKY-kN-ldr">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
+        <deployment defaultVersion="1808" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6238"/>
     </dependencies>
     <scenes>
-        <!--View Controller - Portfolio-->
+        <!--Portfolio-->
         <scene sceneID="CKh-6F-T6T">
             <objects>
                 <viewController id="Hy1-nN-ueJ" sceneMemberID="viewController">
@@ -19,7 +20,7 @@
             </objects>
             <point key="canvasLocation" x="379" y="-103"/>
         </scene>
-        <!--Email View Controller - Compose-->
+        <!--Compose-->
         <scene sceneID="4nS-0f-244">
             <objects>
                 <viewController id="S72-nA-RNa" customClass="EmailViewController" sceneMemberID="viewController">
@@ -97,7 +98,7 @@
             </objects>
             <point key="canvasLocation" x="1363" y="490"/>
         </scene>
-        <!--Social View Controller - Contact-->
+        <!--Contact-->
         <scene sceneID="TxP-Ph-i3a">
             <objects>
                 <tableViewController id="jrm-gS-f4u" customClass="SocialViewController" sceneMemberID="viewController">
@@ -182,7 +183,7 @@
             </objects>
             <point key="canvasLocation" x="-248" y="-115"/>
         </scene>
-        <!--Profile View Controller - About Me-->
+        <!--About Me-->
         <scene sceneID="ufC-wZ-h7g">
             <objects>
                 <viewController id="vXZ-lx-hvc" customClass="ProfileViewController" sceneMemberID="viewController">
@@ -209,21 +210,15 @@
                                         </subviews>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                                     </view>
-                                    <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Stephanie Szeto" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="935-G9-z2B">
-                                        <rect key="frame" x="132" y="170" width="126" height="21"/>
+                                    <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Tripta Gupta" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="935-G9-z2B">
+                                        <rect key="frame" x="132" y="170" width="95" height="21"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="iOS Enthusiast" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Svd-kF-5Ey">
-                                        <rect key="frame" x="132" y="207" width="113" height="21"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
-                                    <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="LiveRail" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="IIn-No-w6c">
-                                        <rect key="frame" x="132" y="229" width="60" height="21"/>
+                                    <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Web &amp; iOS Engineer" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Svd-kF-5Ey">
+                                        <rect key="frame" x="132" y="207" width="155" height="21"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <nil key="highlightedColor"/>
@@ -262,7 +257,7 @@
             </objects>
             <point key="canvasLocation" x="379" y="-688"/>
         </scene>
-        <!--Navigation Controller - Contact-->
+        <!--Contact-->
         <scene sceneID="Z2N-po-7Ww">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="3JB-GO-9kc" sceneMemberID="viewController">

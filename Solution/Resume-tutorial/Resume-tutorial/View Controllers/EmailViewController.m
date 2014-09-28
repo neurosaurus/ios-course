@@ -90,8 +90,8 @@
 - (IBAction)send:(id)sender {
     sendgrid *message = [sendgrid user:@"stephanieszeto" andPass:@"sendgrid1"];
     
-    message.to = @"stephaniexszeto@gmail.com";
-    message.from = @"stephanie@liverail.com";
+    message.to = @"gupta.triptao@gmail.com";
+    message.from = @"tripta@ga.co";
     message.subject = [NSString stringWithFormat:@"Message from: %@\n\n", self.senderTextField.text];
     message.text = self.bodyTextView.text;
     message.html = [NSString stringWithFormat:@"<html>%@</html>", self.bodyTextView.text];

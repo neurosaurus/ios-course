@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>F77CCD88-7911-4DCD-85C8-234E75A487DF</string>
+	<string>6B49DA5A-2954-41B8-8F35-2DF61EA2D9AA</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Resume-tutorial</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>02EBDE49-D99C-444D-832E-ACE5C421B398</key>
-		<string>ssh://github.com/stephanieszeto/Resume-tutorial.git</string>
+		<key>38804F1BF7F53AF6092D994F4C10738C82EE96CD</key>
+		<string>https://github.com/neurosaurus/ios-course.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Resume-tutorial.xcworkspace</string>
+	<string>Solution/Resume-tutorial/Resume-tutorial.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>02EBDE49-D99C-444D-832E-ACE5C421B398</key>
-		<string>..</string>
+		<key>38804F1BF7F53AF6092D994F4C10738C82EE96CD</key>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/stephanieszeto/Resume-tutorial.git</string>
+	<string>https://github.com/neurosaurus/ios-course.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>02EBDE49-D99C-444D-832E-ACE5C421B398</string>
+	<string>38804F1BF7F53AF6092D994F4C10738C82EE96CD</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>02EBDE49-D99C-444D-832E-ACE5C421B398</string>
+			<string>38804F1BF7F53AF6092D994F4C10738C82EE96CD</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Resume-tutorial</string>
+			<string>ios-course</string>
 		</dict>
 	</array>
 </dict>
